@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h3 align="center">A math and computer engineering student</h3>
 
-<!--
-**JorgeJimenez04/JorgeJimenez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--I'm studying math and computer engineering in Madrid
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
